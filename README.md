@@ -129,4 +129,3 @@ with open(outfile_path, 'w') as f:
         f.write("{}, {}".format(i, d))
         f.write("\n")
 print("Operation to complete!")
-![image](https://github.com/lingling-ll/Analyzing-speed-of-C.elegans/assets/167515121/3d1b9612-63b1-4e98-b7db-50794bc8a9b5)
